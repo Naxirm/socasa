@@ -1,0 +1,124 @@
+body {
+    font-family: 'Nunito Sans', sans-serif;
+}
+
+a {
+    text-decoration: none;
+}
+
+header {
+
+    position: fixed;
+    z-index: 1;
+    background: white;
+    width: 100%;
+    box-shadow: 3px 1px 32px 4px rgba(0, 0, 0, 0.45);
+
+}
+
+
+.d-block {
+    height: 700px;
+}
+
+.logo {
+    height: 120px;
+    padding: 10px;
+}
+
+nav {
+    margin-left: 100px;
+    margin-top: 30px;
+    font-family: 'Nunito Sans', sans-serif;
+}
+
+.nav-item {
+    padding-left: 10px;
+    padding-right: 10px;
+    font-size: 16px;
+    font-weight: 600;
+}
+
+nav a:hover{
+    color: #f66e08 !important;
+}
+
+.carousel-indicators button{
+    background-color: #f66e08 !important;
+    width: 10px !important;
+    height: 10px !important;
+    border-radius: 1555px !important;
+    border: 2px solid #f66e08 !important;
+}
+
+.text-oran {
+    color: #f66e08;
+}
+
+#apropos {
+    color: #f66e08;
+    text-transform: uppercase;
+    font-size: 16px;
+    font-weight: 700;
+}
+
+.imgtxt {
+    width: 500px;
+    padding-top: 100px;
+
+}
+
+.inspi {
+    background-color: #e3e3e3;
+}
+
+#inspiration {
+    font-size: medium;
+    padding-top: 90px;
+}
+
+.btn {
+    background-color: #f66e08;
+    font-size: x-large;
+    padding: 4px 70px;
+}
+
+.col-6 {
+    padding: 1px;
+}
+
+.contact h3 {
+    color: #f66e08;
+    font-size: large;
+    padding-top: 120px;
+}
+
+.container3 {
+    padding-bottom: 130px;
+}
+
+.fa-phone {
+    padding-right: 130px;
+}
+
+.fa-clock {
+    padding-right: 500px;
+}
+
+footer {
+    background-color: black;
+    width:100%;
+    height: 60px;
+    font-size: 14px;
+    font-weight: 400;
+}
+
+#media {
+    padding: 20px;
+    padding-left: 70px;
+}
+
+#mentions {
+    padding: 20px;
+    padding-left: 500px;
+}
